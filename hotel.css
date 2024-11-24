@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(13, 13, 56);
+    color: white;
+}
+h1{
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    font-size: 80px;
+}
+main{
+    font-size: 60px;
+    font-family: cursive;
+    text-align: end;
+}
+p{
+    text-align: end;
+}
+.room{
+    text-align: center;
+    text-decoration: underline;
+}
+.table{
+    margin-inline: 50px;
+    align-items: center;
+    justify-items: center;
+}
+th{
+   padding-inline: 30vh;
+   padding-bottom: 20px;
+}
+td img {
+    height: 100px;
+    padding-inline: 30vh;
+
+}
